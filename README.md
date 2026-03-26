@@ -2,7 +2,7 @@
 
 A structured path for beginners to learn PyTorch step-by-step by coding along mainly to understand the concept.
 
-## 📌 Goal
+## 📌 Goals
 
 To help you understand the fundamentals of PyTorch through simple, progressive examples.
 
