@@ -24,4 +24,4 @@ New content will be added to expand this path into more advanced topics.
 
 ---
 
-Follow along and build your PyTorch skills step by step.
+I hope you follow along and build your PyTorch skills step by step.
